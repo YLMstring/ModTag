@@ -139,3 +139,4 @@ C:\ModTag\ModTag\ModTag\obj\Debug\ModTag.csproj.CoreCompileInputs.cache
 C:\ModTag\ModTag\ModTag\obj\Debug\ModTag.csproj.Up2Date
 C:\ModTag\ModTag\ModTag\obj\Debug\ModTag.dll
 C:\ModTag\ModTag\ModTag\obj\Debug\ModTag.pdb
+C:\ModTag\ModTag\ModTag\obj\Debug\ModTag.sourcelink.json

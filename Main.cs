@@ -48,7 +48,7 @@ public static class Main {
         public static void Init_Postfix() {
             try {
                 if (Initialized) {
-                    log.Log("Already initialized blueprints cache.");
+                    log.Log("Already initialized blueprints cache");
                     return;
                 }
                 Initialized = true;

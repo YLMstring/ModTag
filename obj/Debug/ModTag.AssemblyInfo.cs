@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("ModTag")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a39793c7dbcae4ad4f511b1e50d5cb919b2fc6cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModTag")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModTag")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
