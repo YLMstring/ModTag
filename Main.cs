@@ -53,7 +53,7 @@ public static class Main {
                 }
                 Initialized = true;
 
-                log.Log("Patching blueprints.");
+                log.Log("Patching blueprints");
                 // Insert your mod's patching methods here
                 // Example
                 // SuperAwesomeFeat.Configure()

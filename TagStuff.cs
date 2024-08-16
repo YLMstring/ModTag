@@ -17,6 +17,7 @@ namespace ModTag
             try
             {
                 if (!__result.Contains(".") && !__result.Contains("。")) { return; }
+                if (__result.Contains("(mod)")) { return; }
                 string actualKey = __instance.GetActualKey();
                 LocalizationPack.StringEntry stringEntry;
                 if (!pack1.m_Strings.TryGetValue(actualKey, out stringEntry) || !pack2.m_Strings.TryGetValue(actualKey, out stringEntry))
